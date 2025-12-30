@@ -1,0 +1,5 @@
+{
+  "name": "Sistem Informasi Kartu Keluarga (SIKK)",
+  "description": "A comprehensive digital Family Card (Kartu Keluarga) management system featuring a dashboard, search functionality, and official document visualization for Indonesian family records.",
+  "requestFramePermissions": []
+}
